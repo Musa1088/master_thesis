@@ -102,16 +102,4 @@ Additional functionalities:
 
 ---
 
-## Build Instructions
-
-Clone the repository into your ROS 2 workspace:
-
-```bash
-cd ~/ros2_ws/src
-git clone https://gitlab.cc-asp.fraunhofer.de/adr/digimon/development/musa_thesis/pose_recorder.git 
-
-## Launching the Node
-
-ros2 launch pose_recorder main.launch.py
-
 
