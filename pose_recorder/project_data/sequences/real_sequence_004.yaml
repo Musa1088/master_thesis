@@ -1,0 +1,13 @@
+sequence:
+- break: 1.0
+  enabled: true
+  pose_id: 1
+  pose_name: HOME_FRONT
+- break: 1.0
+  enabled: true
+  pose_id: 2
+  pose_name: SERVE_ME
+- break: 1.0
+  enabled: true
+  pose_id: 3
+  pose_name: SERVE_ME

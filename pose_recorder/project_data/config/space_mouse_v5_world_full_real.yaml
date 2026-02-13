@@ -1,0 +1,29 @@
+ros__parameters:
+  axis_angular:
+    pitch: '-'
+    roll: '-'
+    yaw: '-'
+  axis_linear:
+    x: '-'
+    y: '-'
+    z: '-'
+  enable_button: 0
+  enable_turbo_button: 0
+  frame: neura_1/interactive_marker_link
+  require_enable_button: true
+  scale_angular:
+    pitch: '-'
+    roll: '-'
+    yaw: '-'
+  scale_angular_turbo:
+    pitch: '-'
+    roll: '-'
+    yaw: '-'
+  scale_linear:
+    x: '-'
+    y: '-'
+    z: '-'
+  scale_linear_turbo:
+    x: '-'
+    y: '-'
+    z: '-'

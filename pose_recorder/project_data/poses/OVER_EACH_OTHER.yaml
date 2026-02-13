@@ -1,0 +1,49 @@
+header:
+  pose_name: OVER_EACH_OTHER
+  description: Robot 1 and 2 looking at each other up/down; 2R tested
+  recorded: 20.06.2025 14:50:54
+  last_edited: 01.08.2025 15:37:53
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -14.4
+      joint_2: 34.8
+      joint_3: -23.7
+      joint_4: 32.6
+      joint_5: 14.5
+      joint_6: 114.2
+      joint_7: -28.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.9499
+      y: -0.4004
+      z: 1.3
+    ee_rotation_euler_degrees:
+      roll: 179.9
+      pitch: 0.0
+      yaw: -0.1
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -115.5
+      joint_2: -64.3
+      joint_3: 95.4
+      joint_4: 80.0
+      joint_5: 63.8
+      joint_6: -90.5
+      joint_7: 14.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.9503
+      y: 0.3992
+      z: 0.85
+    ee_rotation_euler_degrees:
+      roll: 0.0
+      pitch: 0.0
+      yaw: 180.0

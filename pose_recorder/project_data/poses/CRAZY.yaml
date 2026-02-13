@@ -1,0 +1,67 @@
+header:
+  pose_name: CRAZY
+  description: ''
+  recorded: 26.06.2025 13:25:07
+  last_edited: 31.07.2025 14:51:24
+  robot_1: neura_1
+  robot_2: neura_2
+  robot_3: transformation_matrix_neura_1
+  robot_4: transformation_matrix_neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.0
+      joint_2: 1.0
+      joint_3: 1.4
+      joint_4: 99.0
+      joint_5: -1.2
+      joint_6: 45.2
+      joint_7: -1.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.767
+      y: 0.0168
+      z: 0.9219
+    ee_rotation_euler_degrees:
+      roll: 177.9
+      pitch: -34.8
+      yaw: 3.6
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -84.1
+      joint_2: -19.7
+      joint_3: 101.6
+      joint_4: 100.2
+      joint_5: 19.9
+      joint_6: 76.5
+      joint_7: 55.9
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6379
+      y: 0.3923
+      z: 0.8186
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: -42.5
+robot_3:
+  joint_pose:
+    joint_angles_degrees: {}
+  cartesian_pose:
+    base_frame_name: ''
+    ee_frame_name: ''
+    ee_translation_m: {}
+    ee_rotation_euler_degrees: {}
+robot_4:
+  joint_pose:
+    joint_angles_degrees: {}
+  cartesian_pose:
+    base_frame_name: ''
+    ee_frame_name: ''
+    ee_translation_m: {}
+    ee_rotation_euler_degrees: {}

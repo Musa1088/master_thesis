@@ -1,0 +1,49 @@
+header:
+  pose_name: AN_GUTEN_TAGEN
+  description: ''
+  recorded: 27.06.2025 12:39:20
+  last_edited: 07.07.2025 11:31:20
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 5.9
+      joint_2: 6.7
+      joint_3: 4.3
+      joint_4: 77.8
+      joint_5: -91.5
+      joint_6: 100.1
+      joint_7: 84.4
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.767
+      y: 0.0168
+      z: 1.2
+    ee_rotation_euler_degrees:
+      roll: 90.0
+      pitch: -90.0
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -84.2
+      joint_2: -19.5
+      joint_3: 101.9
+      joint_4: 100.2
+      joint_5: 19.6
+      joint_6: 76.4
+      joint_7: 56.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6379
+      y: 0.3923
+      z: 0.8186
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: -42.5

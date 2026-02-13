@@ -1,0 +1,49 @@
+header:
+  pose_name: HOME__updated
+  description: "Zentrale Home-Pose f\xFCr Roboter 1 und 2; tested with 2R"
+  recorded: 20.06.2025 08:10:05
+  last_edited: 23.06.2025 16:35:48
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -0.000115
+      joint_2: -4.851406
+      joint_3: -0.000115
+      joint_4: 114.510142
+      joint_5: -0.0
+      joint_6: 70.341284
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_link7
+    ee_translation_m:
+      x: 0.6
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: -90
+      pitch: 0.0
+      yaw: 90.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -0.000115
+      joint_2: -4.851348
+      joint_3: -0.000115
+      joint_4: 114.510084
+      joint_5: -0.0
+      joint_6: 70.341226
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_link7
+    ee_translation_m:
+      x: 0.6
+      y: -0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: -90
+      pitch: -0.0
+      yaw: 90.0

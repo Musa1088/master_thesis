@@ -1,0 +1,49 @@
+header:
+  pose_name: __recorded_26.01.2026__09:59:22
+  description: ''
+  recorded: 26.01.2026 09:59:22
+  last_edited: 26.01.2026 09:59:22
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.016616
+      joint_2: -1.19645
+      joint_3: 0.106169
+      joint_4: 110.927952
+      joint_5: 0.002521
+      joint_6: 70.410841
+      joint_7: 0.121868
+  cartesian_pose:
+    base_frame_name: flange
+    ee_frame_name: flange
+    ee_translation_m:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    ee_rotation_euler_degrees:
+      roll: 0.0
+      pitch: -0.0
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.012892
+      joint_2: -1.114919
+      joint_3: 0.115394
+      joint_4: 110.762024
+      joint_5: 0.003151
+      joint_6: 70.584848
+      joint_7: 0.127884
+  cartesian_pose:
+    base_frame_name: flange
+    ee_frame_name: flange
+    ee_translation_m:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    ee_rotation_euler_degrees:
+      roll: 0.0
+      pitch: -0.0
+      yaw: 0.0

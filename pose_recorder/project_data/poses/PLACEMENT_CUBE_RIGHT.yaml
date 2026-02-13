@@ -1,0 +1,49 @@
+header:
+  pose_name: PLACEMENT_CUBE_RIGHT
+  description: Pose to pick up orange cube from the table on left front corner
+  recorded: 14.08.2025 16:56:13
+  last_edited: 14.08.2025 19:31:37
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -68.308487
+      joint_2: -15.779544
+      joint_3: 56.406549
+      joint_4: 107.033444
+      joint_5: 13.221058
+      joint_6: 82.066177
+      joint_7: -14.780764
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: 180.0
+      pitch: 0.0
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 4.425125
+      joint_2: 30.357252
+      joint_3: 39.61499
+      joint_4: 132.069923
+      joint_5: -40.322134
+      joint_6: 29.867889
+      joint_7: 76.313624
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.4352
+      y: 0.366
+      z: 0.32
+    ee_rotation_euler_degrees:
+      roll: 180.0
+      pitch: 0.0
+      yaw: 0.0

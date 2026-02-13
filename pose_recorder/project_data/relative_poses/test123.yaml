@@ -1,0 +1,33 @@
+Frame A --> Frame B:
+  ee_origin_frame: neura_1/maira7M_flange
+  ee_target_frame: neura_2/maira7M_flange
+  relative_rotation:
+    pitch: -2.4
+    roll: 3.1
+    yaw: -169.0
+  relative_translation:
+    x: 0.5912
+    y: -0.0222
+    z: -0.0498
+Reference Frame --> Frame A:
+  ee_origin_frame: world_link
+  ee_target_frame: neura_1/maira7M_flange
+  relative_rotation:
+    pitch: -0.0
+    roll: 180.0
+    yaw: -0.2
+  relative_translation:
+    x: -0.328
+    y: -0.0019
+    z: 1.7054
+Reference Frame --> Frame B:
+  ee_origin_frame: world_link
+  ee_target_frame: neura_2/maira7M_flange
+  relative_rotation:
+    pitch: 2.4
+    roll: -176.9
+    yaw: 168.8
+  relative_translation:
+    x: 0.2633
+    y: 0.0184
+    z: 1.7552

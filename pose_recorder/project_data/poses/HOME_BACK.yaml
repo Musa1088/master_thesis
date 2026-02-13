@@ -1,0 +1,49 @@
+header:
+  pose_name: HOME_BACK
+  description: checked after update, OK
+  recorded: 26.06.2025 12:30:22
+  last_edited: 30.07.2025 16:02:47
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 19.4
+      joint_2: 23.3
+      joint_3: 17.2
+      joint_4: 82.8
+      joint_5: -7.0
+      joint_6: 75.0
+      joint_7: 37.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.8
+      y: 0.5
+      z: 0.785
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: 0.1
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -43.0
+      joint_2: 23.1
+      joint_3: 15.0
+      joint_4: 82.8
+      joint_5: -6.0
+      joint_6: 74.9
+      joint_7: -27.5
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.8
+      y: -0.5
+      z: 0.784
+    ee_rotation_euler_degrees:
+      roll: 180.0
+      pitch: 0.0
+      yaw: -0.1

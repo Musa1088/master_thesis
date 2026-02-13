@@ -1,0 +1,49 @@
+header:
+  pose_name: UPSIDE_DOWN
+  description: 2R tested
+  recorded: 20.06.2025 14:44:49
+  last_edited: 25.06.2025 08:19:50
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.0
+      joint_2: -4.9
+      joint_3: -0.0
+      joint_4: 114.5
+      joint_5: -0.0
+      joint_6: -109.7
+      joint_7: -0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_link7
+    ee_translation_m:
+      x: 0.6
+      y: -0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: 90.0
+      pitch: -0.0
+      yaw: 90.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -94.3
+      joint_2: -33.6
+      joint_3: 69.9
+      joint_4: 114.5
+      joint_5: 31.9
+      joint_6: -100.0
+      joint_7: 34.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_link7
+    ee_translation_m:
+      x: 0.6
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: 90.0
+      pitch: 0.0
+      yaw: 90.0

@@ -1,0 +1,49 @@
+header:
+  pose_name: PICKUP_CUBE_LEFT_ROBOT
+  description: Pose to pick up orange cube from the table on left front corner
+  recorded: 14.08.2025 16:56:13
+  last_edited: 14.08.2025 19:13:41
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -170.6
+      joint_2: -41.9
+      joint_3: 123.8
+      joint_4: 132.1
+      joint_5: 61.7
+      joint_6: 39.0
+      joint_7: -93.2
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.4352
+      y: -0.366
+      z: 0.3019
+    ee_rotation_euler_degrees:
+      roll: 179.8
+      pitch: -0.2
+      yaw: -0.5
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -45.4
+      joint_2: -10.0
+      joint_3: 39.7
+      joint_4: 107.0
+      joint_5: 6.5
+      joint_6: 80.8
+      joint_7: -7.2
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: 180.0
+      pitch: 0.0
+      yaw: 0.0

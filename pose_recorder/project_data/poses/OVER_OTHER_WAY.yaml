@@ -1,0 +1,49 @@
+header:
+  pose_name: OVER_OTHER_WAY
+  description: OVER_EACH_OTHER, but other way around
+  recorded: 26.06.2025 13:48:10
+  last_edited: 26.06.2025 13:50:32
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -5.1
+      joint_2: 34.3
+      joint_3: -27.3
+      joint_4: 77.4
+      joint_5: 15.7
+      joint_6: -108.0
+      joint_7: 33.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.9503
+      y: -0.3992
+      z: 0.9154
+    ee_rotation_euler_degrees:
+      roll: 0.0
+      pitch: 0.0
+      yaw: -180.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 38.8
+      joint_2: 59.9
+      joint_3: -131.3
+      joint_4: 32.6
+      joint_5: 108.1
+      joint_6: 136.9
+      joint_7: 2.5
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.9499
+      y: 0.4005
+      z: 1.185
+    ee_rotation_euler_degrees:
+      roll: 180.0
+      pitch: 0.0
+      yaw: 0.0

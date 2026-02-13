@@ -1,0 +1,49 @@
+header:
+  pose_name: NEXT_TO_EACH_OTHER_HANDOVER
+  description: ''
+  recorded: 30.06.2025 14:43:40
+  last_edited: 14.08.2025 19:23:35
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -105.7
+      joint_2: -1.5
+      joint_3: 69.0
+      joint_4: 93.6
+      joint_5: 95.6
+      joint_6: 36.7
+      joint_7: -95.1
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.68
+      y: -0.4007
+      z: 1.1
+    ee_rotation_euler_degrees:
+      roll: -85.3
+      pitch: -89.9
+      yaw: -94.9
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -71.7
+      joint_2: -45.8
+      joint_3: 63.6
+      joint_4: 96.2
+      joint_5: 62.8
+      joint_6: 14.6
+      joint_7: 74.3
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6337
+      y: 0.417
+      z: 1.0959
+    ee_rotation_euler_degrees:
+      roll: -89.6
+      pitch: 4.9
+      yaw: -89.8

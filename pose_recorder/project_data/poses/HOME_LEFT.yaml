@@ -1,0 +1,49 @@
+header:
+  pose_name: HOME_LEFT
+  description: 2R tested
+  recorded: 23.06.2025 10:28:59
+  last_edited: 01.08.2025 14:30:00
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -0.000115
+      joint_2: -7.397229
+      joint_3: -0.000115
+      joint_4: 107.033444
+      joint_5: -0.0
+      joint_6: 80.363805
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -0.000172
+      joint_2: 25.569216
+      joint_3: -5.7e-05
+      joint_4: 68.8917
+      joint_5: 5.7e-05
+      joint_6: 85.539104
+      joint_7: -0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 1.0
+      y: 0.0
+      z: 0.9
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: 0.0

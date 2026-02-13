@@ -1,0 +1,17 @@
+sequence:
+- break: 1.0
+  enabled: true
+  pose_id: 1
+  pose_name: CENTERED_POSE
+- break: 1.0
+  enabled: true
+  pose_id: 2
+  pose_name: CRAZY
+- break: 1.0
+  enabled: true
+  pose_id: 3
+  pose_name: HOME_FRONT
+- break: 1.0
+  enabled: true
+  pose_id: 4
+  pose_name: HOME_RECTANGULAR

@@ -1,0 +1,67 @@
+header:
+  pose_name: NEW_POSE_MEETING
+  description: ''
+  recorded: 01.07.2025 10:26:24
+  last_edited: 08.07.2025 14:06:11
+  robot_1: neura_1
+  robot_2: neura_2
+  robot_3: transformation_matrix_neura_1
+  robot_4: transformation_matrix_neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.0
+      joint_2: 25.5
+      joint_3: 0.0
+      joint_4: 60.8
+      joint_5: 0.0
+      joint_6: 93.6
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 1.0001
+      y: 0.0
+      z: 1.0
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: -0.1
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: -27.8
+      joint_2: 13.9
+      joint_3: -6.5
+      joint_4: 104.4
+      joint_5: 1.2
+      joint_6: 71.1
+      joint_7: -34.4
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.6386
+      y: -0.422
+      z: 0.6732
+    ee_rotation_euler_degrees:
+      roll: -175.1
+      pitch: 8.0
+      yaw: 0.0
+robot_3:
+  joint_pose:
+    joint_angles_degrees: {}
+  cartesian_pose:
+    base_frame_name: ''
+    ee_frame_name: ''
+    ee_translation_m: {}
+    ee_rotation_euler_degrees: {}
+robot_4:
+  joint_pose:
+    joint_angles_degrees: {}
+  cartesian_pose:
+    base_frame_name: ''
+    ee_frame_name: ''
+    ee_translation_m: {}
+    ee_rotation_euler_degrees: {}

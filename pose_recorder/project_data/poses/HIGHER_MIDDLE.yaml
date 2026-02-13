@@ -1,0 +1,49 @@
+header:
+  pose_name: HIGHER_MIDDLE
+  description: ''
+  recorded: 27.06.2025 08:18:01
+  last_edited: 31.07.2025 14:48:03
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 1.3
+      joint_2: -11.0
+      joint_3: 1.5
+      joint_4: 103.4
+      joint_5: -5.1
+      joint_6: 86.2
+      joint_7: 8.3
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.5684
+      y: 0.02
+      z: 0.9813
+    ee_rotation_euler_degrees:
+      roll: 174.9
+      pitch: -2.1
+      yaw: -5.2
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 1.3
+      joint_2: -11.0
+      joint_3: 1.5
+      joint_4: 103.4
+      joint_5: -5.1
+      joint_6: 86.2
+      joint_7: 8.3
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.5684
+      y: 0.02
+      z: 0.9813
+    ee_rotation_euler_degrees:
+      roll: 174.9
+      pitch: -2.1
+      yaw: -5.2

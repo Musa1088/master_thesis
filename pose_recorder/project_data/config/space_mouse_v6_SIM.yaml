@@ -1,0 +1,29 @@
+ros__parameters:
+  axis_angular:
+    pitch: 0
+    roll: 1
+    yaw: 2
+  axis_linear:
+    x: 4
+    y: 3
+    z: 5
+  enable_button: 1
+  enable_turbo_button: 0
+  frame: neura_2/world
+  require_enable_button: true
+  scale_angular:
+    pitch: -0.06
+    roll: -0.06
+    yaw: 0.06
+  scale_angular_turbo:
+    pitch: -0.03
+    roll: -0.03
+    yaw: 0.03
+  scale_linear:
+    x: -0.03
+    y: -0.03
+    z: 0.03
+  scale_linear_turbo:
+    x: -0.06
+    y: -0.06
+    z: 0.06

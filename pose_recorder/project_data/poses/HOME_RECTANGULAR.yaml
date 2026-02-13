@@ -1,0 +1,49 @@
+header:
+  pose_name: HOME_RECTANGULAR
+  description: Robots pointing to the ground; 2R tested
+  recorded: 20.06.2025 14:46:55
+  last_edited: 01.08.2025 16:11:04
+  robot_1: neura_1
+  robot_2: neura_2
+robot_1:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.0
+      joint_2: 0.0
+      joint_3: 0.0
+      joint_4: 91.9
+      joint_5: 0.0
+      joint_6: 88.1
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.7
+      y: 0.0
+      z: 1.0
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: 0.0
+robot_2:
+  joint_pose:
+    joint_angles_degrees:
+      joint_1: 0.0
+      joint_2: 0.0
+      joint_3: 0.0
+      joint_4: 91.9
+      joint_5: 0.0
+      joint_6: 88.1
+      joint_7: 0.0
+  cartesian_pose:
+    base_frame_name: world
+    ee_frame_name: maira7M_flange
+    ee_translation_m:
+      x: 0.7
+      y: 0.0
+      z: 1.0
+    ee_rotation_euler_degrees:
+      roll: -180.0
+      pitch: 0.0
+      yaw: 0.0

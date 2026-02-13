@@ -1,0 +1,13 @@
+sequence:
+- break: 1.0
+  file_path: /robotic_ws/src/pose_recorder/saved_data/COOL.yaml
+  pose_id: 1
+  pose_name: COOL
+- break: 1.0
+  file_path: /robotic_ws/src/pose_recorder/saved_data/HOME_FRONT.yaml
+  pose_id: 2
+  pose_name: HOME_FRONT
+- break: 1.0
+  file_path: /robotic_ws/src/pose_recorder/saved_data/HOME__updated.yaml
+  pose_id: 3
+  pose_name: HOME__updated
