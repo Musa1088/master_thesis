@@ -103,7 +103,7 @@ Additional functionalities:
 ---
 
 ## Launching the Node
-
+```bash
 ros2 launch pose_recorder main.launch.py
 
 
