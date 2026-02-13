@@ -102,4 +102,8 @@ Additional functionalities:
 
 ---
 
+## Launching the Node
+
+ros2 launch pose_recorder main.launch.py
+
 
